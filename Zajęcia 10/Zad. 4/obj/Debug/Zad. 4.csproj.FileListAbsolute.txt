@@ -1,0 +1,6 @@
+C:\Users\Kacper\Desktop\Zajecia 9\Zajęcia 10\Zajęcia 10\Zad. 4\bin\Debug\Zad. 4.exe.config
+C:\Users\Kacper\Desktop\Zajecia 9\Zajęcia 10\Zajęcia 10\Zad. 4\obj\Debug\Zad. 4.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Desktop\Zajecia 9\Zajęcia 10\Zajęcia 10\Zad. 4\bin\Debug\Zad. 4.exe
+C:\Users\Kacper\Desktop\Zajecia 9\Zajęcia 10\Zajęcia 10\Zad. 4\bin\Debug\Zad. 4.pdb
+C:\Users\Kacper\Desktop\Zajecia 9\Zajęcia 10\Zajęcia 10\Zad. 4\obj\Debug\Zad. 4.exe
+C:\Users\Kacper\Desktop\Zajecia 9\Zajęcia 10\Zajęcia 10\Zad. 4\obj\Debug\Zad. 4.pdb
