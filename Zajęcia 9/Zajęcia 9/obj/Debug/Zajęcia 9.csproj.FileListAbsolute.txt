@@ -1,0 +1,5 @@
+C:\Users\Kacper\Desktop\Zajecia 9\Zajęcia 9\Zajęcia 9\bin\Debug\Zajęcia 9.exe.config
+C:\Users\Kacper\Desktop\Zajecia 9\Zajęcia 9\Zajęcia 9\bin\Debug\Zajęcia 9.exe
+C:\Users\Kacper\Desktop\Zajecia 9\Zajęcia 9\Zajęcia 9\bin\Debug\Zajęcia 9.pdb
+C:\Users\Kacper\Desktop\Zajecia 9\Zajęcia 9\Zajęcia 9\obj\Debug\Zajęcia 9.exe
+C:\Users\Kacper\Desktop\Zajecia 9\Zajęcia 9\Zajęcia 9\obj\Debug\Zajęcia 9.pdb
