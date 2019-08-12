@@ -1,0 +1,6 @@
+C:\Users\Kacper\Desktop\Zajęcia 6\Zajęcia 8\ConsoleApplication1\IComparer\bin\Debug\IComparer.exe.config
+C:\Users\Kacper\Desktop\Zajęcia 6\Zajęcia 8\ConsoleApplication1\IComparer\obj\Debug\IComparer.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Desktop\Zajęcia 6\Zajęcia 8\ConsoleApplication1\IComparer\bin\Debug\IComparer.exe
+C:\Users\Kacper\Desktop\Zajęcia 6\Zajęcia 8\ConsoleApplication1\IComparer\bin\Debug\IComparer.pdb
+C:\Users\Kacper\Desktop\Zajęcia 6\Zajęcia 8\ConsoleApplication1\IComparer\obj\Debug\IComparer.exe
+C:\Users\Kacper\Desktop\Zajęcia 6\Zajęcia 8\ConsoleApplication1\IComparer\obj\Debug\IComparer.pdb

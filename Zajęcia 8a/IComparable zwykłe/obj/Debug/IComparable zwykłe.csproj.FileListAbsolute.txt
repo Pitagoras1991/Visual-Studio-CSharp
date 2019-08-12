@@ -1,0 +1,5 @@
+C:\Users\Kacper\Desktop\Zajęcia 6\Zajęcia 8\ConsoleApplication1\IComparable zwykłe\bin\Debug\IComparable zwykłe.exe.config
+C:\Users\Kacper\Desktop\Zajęcia 6\Zajęcia 8\ConsoleApplication1\IComparable zwykłe\bin\Debug\IComparable zwykłe.exe
+C:\Users\Kacper\Desktop\Zajęcia 6\Zajęcia 8\ConsoleApplication1\IComparable zwykłe\bin\Debug\IComparable zwykłe.pdb
+C:\Users\Kacper\Desktop\Zajęcia 6\Zajęcia 8\ConsoleApplication1\IComparable zwykłe\obj\Debug\IComparable zwykłe.exe
+C:\Users\Kacper\Desktop\Zajęcia 6\Zajęcia 8\ConsoleApplication1\IComparable zwykłe\obj\Debug\IComparable zwykłe.pdb

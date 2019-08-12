@@ -1,0 +1,6 @@
+C:\Users\Kacper\Desktop\Zajęcia 6\Zajęcia 8\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Kacper\Desktop\Zajęcia 6\Zajęcia 8\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Desktop\Zajęcia 6\Zajęcia 8\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Kacper\Desktop\Zajęcia 6\Zajęcia 8\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Kacper\Desktop\Zajęcia 6\Zajęcia 8\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Kacper\Desktop\Zajęcia 6\Zajęcia 8\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
